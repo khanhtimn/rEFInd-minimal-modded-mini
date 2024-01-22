@@ -24,8 +24,5 @@ Entries that are autodetected should also show the proper icons.
 
 The OS icons are from [refind-theme-dark] by samuelmeuli.
 
-The theme is a modified version of [rEFInd-minimal] by EvanPurkhiser.
-
 
 [refind-theme-dark]: https://github.com/samuelmeuli/refind-theme-dark
-[rEFInd-minimal]: https://github.com/EvanPurkhiser/rEFInd-minimal
